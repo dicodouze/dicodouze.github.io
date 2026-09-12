@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dahu.com.free.fr/sitemap.xml
