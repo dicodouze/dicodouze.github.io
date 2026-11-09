@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dicodouze.github.io/sitemap.xml
